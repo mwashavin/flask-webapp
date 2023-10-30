@@ -1,1 +1,2 @@
 # flask-webapp
+This series will show you how to create websites with python using the micro framework flask. Flask is designed for quick development of simple web applications and is much easier to learn and use than django. 
